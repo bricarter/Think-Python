@@ -1,0 +1,14 @@
+1. The error messages that show depends on how I am running the program
+Output: leaving out one parenthesis will prompt an invalid syntax error; the program will still run if you leave out both
+Terminal: leaving out one or both parenthesis will prompt an invalid syntax error; the program will still run if you run it with python instead of python 3
+Python 3: leaving out one or both parenthesis will prompt an invalid syntax error
+
+2. Leaving out one or both quotation marks will prompt an invalid syntax error
+The program will still run if you use double vs single quotes
+
+3. Putting a + before a number, the number remains positive. 
+2++2 results in 4
+
+4. Leading zeros in integers are not permitted; syntax error
+
+5. Having two values with no operator between will lead to syntax error.
