@@ -1,0 +1,7 @@
+1. 60 * 42 + 42 = 2562 seconds
+
+2. 10 / 1.61 = 6.21 miles
+
+3. 2562 / 6.21 = 412.482 seconds per mile
+(2562/60) / 6.21 = 6.88 minutes per mile
+6.21 / (42.7/60) = 8.73 miles per hour
