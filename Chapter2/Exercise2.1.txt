@@ -1,0 +1,4 @@
+42 = n prompts syntax error
+The program still runs if a semi colon is put at the end of the statement
+Syntax error if a period is put at the end of a statment in script mode; in interactive mode, it converts from int to float
+xy prompts a syntax error; assumes I was trying to call an undefined variable
