@@ -1,0 +1,13 @@
+OUTPUT: 6
+
+STACK DIAGRAM:
+main
+recurse		n -> 3	s -> 0
+recurse		n -> 2	s -> 3
+recurse		n -> 1	s -> 5
+recurse		n -> 0	s -> 6
+
+1. If you call the function with n starting at -1 it will fall into an infinite recursion because the base case will never be met
+
+2. 
+""" A recurse function that prints the value of s once the value of n reaches 0 so long as the argument for n is >= 0 """
