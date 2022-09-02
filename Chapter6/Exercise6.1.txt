@@ -1,0 +1,9 @@
+STACK DIAGRAM:
+MAIN	x->1	y->2
+c	x->1	y->5	z->3	total->3	square->144
+b	z->3	prod->12
+a	x->3,4	y->3
+
+OUTPUT:
+3, 12
+144
